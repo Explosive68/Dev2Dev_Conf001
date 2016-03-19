@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Star Wars rules!</string>
+    <string name="placeholder_name">Name</string>
+    <string name="info_format">%1$s kg, %2$s cm, eye color - %3$s</string>
+</resources>
